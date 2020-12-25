@@ -6,11 +6,15 @@ Note that the tool does not bypass the Secure, so if your account is secured, th
 
 Some libraries you must download ..
 
-pip install json
-pip install time
-pip install halo
-pip install requests
-pip install colorama
+-pip install json
+
+-pip install time
+
+-pip install halo
+
+-pip install requests
+
+-pip install colorama
 
 Do not forget to add me on Instagram : @vv1ck
 
